@@ -6,3 +6,6 @@ O laboratorio possui como objetivo demonstrar e apresentar funcionalidades do Az
 
 # Lab-Criando máquinas Virtuais na Azure
 O laboratorio nos explica sobre SLA, opcoes e zonas de disponibilidade, e estrategias de redundancia
+
+# Configurando uma instância de Banco de Dados na Azure
+O laboratorio demonstra como criar maquinas virtuais no Azure, explicando detalhes e especificaçoes; Tambem explica como criar um banco de dados SQL, explicando destalhes e especificacoes
