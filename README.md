@@ -9,3 +9,6 @@ O laboratorio nos explica sobre SLA, opcoes e zonas de disponibilidade, e estrat
 
 # Configurando uma instância de Banco de Dados na Azure
 O laboratorio demonstra como criar maquinas virtuais no Azure, explicando detalhes e especificaçoes; Tambem explica como criar um banco de dados SQL, explicando destalhes e especificacoes
+
+# Construindo Arquiteturas no Azure
+O laboratorio mostra como os datacenters funcionam e suas localizaçoes, e tambem oque são, como funcionam e como criar os grupos de recursos
