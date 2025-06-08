@@ -17,3 +17,8 @@ O laboratorio mostra como os datacenters funcionam e suas localizaçoes, e tambe
 O laboratorio explica a criação de uma maquina virtual no Azure, passando por varias caracteristicas como dimensionamento, condiçoes de escala, spot, regras de
 porta de entrada, discos, balanceamneto de carga, gerenciamento, extensoes, e custo. Alem de revisar sobre area de trabalho, criacao de pool de hosts e 
 aplicativos de funções
+
+# Análise de Sentimentos com Language Studio no Azure AI
+O laboratorio explica sobre analise de texto atraves do language studio no Azure AI, trazendo caracteristicas do texto como idioma, sentimentos, frases-chave,
+entidades e etc. Tambem explica sobre o serviço de bot, uma plataforma baseada em nuvem, integracao com language e conectividade, e tambem explica como a IA 
+pode entender linguagem coloquial.
